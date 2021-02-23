@@ -1,1 +1,1 @@
-# This is used to demonsreate the use of github for a school project. 
+This is used to demonsreate the use of github for a school project. 
